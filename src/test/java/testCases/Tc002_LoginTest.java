@@ -35,6 +35,6 @@ public class Tc002_LoginTest extends BaseClass  {
 		boolean	targetPage=macc.isMyAccountPageExist();
 		//the (targetPage, true,"login failed"); targetPage, true compare if it is false it throught "login failed 
 		//AssertJUnit.assertEquals(targetPage, true,"login failed");
-	logger.info("***finish tc002logintest***");}
+	logger.info("***finish loging tc002logintest***");}
 }
       
